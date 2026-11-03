@@ -1,6 +1,6 @@
 # isipsafe Docker image
 
-Official Docker image for [isIPsafe](https://isipsafe.com), the free IP reputation and abuse reporting service.
+Official Docker image for [isIPsafe](https://isipsafe.com), the free IP reputation and abuse reporting service. Official usage and deployment guide: [isipsafe.com/integrations/docker](https://isipsafe.com/integrations/docker).
 
 - Check and report IP addresses from any machine with Docker, nothing to install
 - Keep a firewall-ready **blocklist in sync** on a shared volume, for nginx, Apache, nftables, ipset or MikroTik
